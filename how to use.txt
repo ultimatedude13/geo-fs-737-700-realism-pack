@@ -1,0 +1,1 @@
+V1.0.0: A window will appear when you activate the code. The window will have checkboxes for the lights with lables next to them, there will also be a dropdown box with the four autobrake settings.
