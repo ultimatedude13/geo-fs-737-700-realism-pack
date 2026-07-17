@@ -1,2 +1,2 @@
-V1.0.0: first version, including most external lights and autobrake. status: pre realease. full realease date: 17/07/2026.
+V1.0.0: first version, including most external lights and autobrake. status: pre realease. pre realease date: 16/07/2026. full realease date: 17/07/2026.
 V1.0.2: intrudecing limted cockpit interactions. status: development. pre realease date: 18-20/07/2026. full realease date: 21/07/2026.
