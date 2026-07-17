@@ -4,7 +4,7 @@
 // @version      1.0.0
 // @description  Stable base: show/hide window, external lights (visual only), autobrake dropdown, custom sound URLs
 // @author       Eli Smidt
-// @match        https://www.geo-fs.com/geofs.php*
+// @match        https://www.geo-fs.com/geofs.php
 // @run-at       document-end
 // @grant        none
 // follow me on github! https://www.github.com/ultimatedude13
