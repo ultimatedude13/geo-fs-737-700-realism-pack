@@ -8,6 +8,7 @@
 // @run-at       document-end
 // @grant        none
 // follow me on github! https://www.github.com/ultimatedude13
+//follow me on scratch! https://www.scratch.mit.edu/users/ultimatedude13
 // ==/UserScript==
 
 (function () {
@@ -16,9 +17,9 @@
     // -------------------------
     // BUILT-IN SOUNDS (YOUR URLs)
     // -------------------------
-    const touchdownSound = new Audio("https://sites.google.com/view/elismidtcode/geofs/touchdown-mp3");
-    const reverseSound   = new Audio("https://sites.google.com/view/elismidtcode/geofs/reverse-mp3");
-    const ambienceSound  = new Audio("https://sites.google.com/view/elismidtcode/geofs/ambience-mp3");
+    const touchdownSound = new Audio("https://sites.google.com/view/elismidtcodedevcenter/touchdown-mp3");
+    const reverseSound   = new Audio("https://sites.google.com/view/elismidtcodedevcenter/reverse-mp3");
+    const ambienceSound  = new Audio("https://sites.google.com/view/elismidtcodedevcenter/ambience-mp3");
 
     touchdownSound.volume = 0.9;
     reverseSound.volume   = 0.8;
