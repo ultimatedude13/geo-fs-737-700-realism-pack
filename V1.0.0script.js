@@ -15,11 +15,11 @@
     "use strict";
 
     // -------------------------
-    // BUILT-IN SOUNDS (YOUR URLs)
+    // BUILT-IN SOUNDS
     // -------------------------
-    const touchdownSound = new Audio("https://sites.google.com/view/elismidtcodedevcenter/touchdown-mp3");
-    const reverseSound   = new Audio("https://sites.google.com/view/elismidtcodedevcenter/reverse-mp3");
-    const ambienceSound  = new Audio("https://sites.google.com/view/elismidtcodedevcenter/ambience-mp3");
+    const touchdownSound = new Audio("https://sites.google.com/view/elismidtcodefilefetch/touchdown-mp3");
+    const reverseSound   = new Audio("https://sites.google.com/view/elismidtcodefilefetch/reverse-mp3");
+    const ambienceSound  = new Audio("https://sites.google.com/view/elismidtcodefilefetch/ambience-mp3");
 
     touchdownSound.volume = 0.9;
     reverseSound.volume   = 0.8;
