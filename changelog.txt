@@ -1,1 +1,1 @@
-V1.0.0: first version, including most external lights, autobrake and sounds. status: latest version. pre realease date: 16/07/2026. full realease date: 18/07/2026.
+V1.0.0: is the first version, including most external lights, autobrake and sounds. status: latest version. pre realease date: 16/07/2026. full realease date: 18/07/2026.
